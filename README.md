@@ -1,2 +1,2 @@
 # AutoJukeBoxDupe
-kk im bored working on lagarchy.tk
+kk im bored, dupe working on lagarchy.tk
