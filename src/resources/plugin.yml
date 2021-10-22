@@ -1,7 +1,0 @@
-name: AJDN (Auto.Jukebox.Dupe.Nerf)
-version: @version@
-main: me.drifty.ajdf.AutoJukeboxDupeNerf
-author: Drifty
-
-depend:
-  - ProtocolLib
